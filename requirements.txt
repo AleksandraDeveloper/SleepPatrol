@@ -1,0 +1,4 @@
+pillow==10.4.0
+pytz==2024.1
+tzdata==2024.1
+tzlocal==5.2
